@@ -113,21 +113,7 @@ Sistema desenvolvido inteiramente em **Java**, com **código e documentação em
 
 ## 📊 Estatísticas do GitHub
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=lucigool&show_icons=true&theme=tokyonight" height="160em"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucigool&layout=compact&theme=tokyonight" height="160em"/>
-</div>
+   ![game](https://github.com/user-attachments/assets/7f1609c8-fb31-495c-9f04-4ad22023b913)
 
----
-
-## 🐍 Atividade no GitHub
-
-<div align="center">
-
-![Snake animation](https://github.com/lucigool/lucigool/blob/output/github-contribution-grid-snake.svg)
-
-</div>
-
----
 
 > *“A evolução acontece quando a prática encontra a consistência.”*
