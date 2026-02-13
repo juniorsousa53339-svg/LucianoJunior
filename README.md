@@ -71,7 +71,7 @@ Atualmente, dedico meus estudos à **Programação Orientada a Objetos (POO)** a
 
 <div align="center">
   <h2>🐍 Snake Game (Minhas Contribuições)</h2>
-  <img src="https://raw.githubusercontent.com/juniorsousa53339-svg/juniorsousa53339-svg/output/github-snake.svg" alt="Snake Game" />
+ <img src="https://raw.githubusercontent.com/juniorsousa53339-svg/Luciano-Junior/output/github-snake.svg" alt="Snake Game" />
 </div>
 
 ## 🌐 Conecte-se comigo
