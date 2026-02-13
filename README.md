@@ -1,105 +1,80 @@
-<h1 align="center">Luciano Luis de Sousa Junior</h1>
-<h3 align="center">Desenvolvedor Backend Java | Estudante de Análise e Desenvolvimento de Sistemas</h3>
-
-<p align="center">
-📍 São Paulo – SP • 🎯 Em busca de oportunidade como Estagiário ou Desenvolvedor Júnior
-</p>
+<div align="center">
+  <img height="180" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java Logo" />
+  <h1>Luciano Luis de Sousa Junior</h1>
+  <h3>🚀 Desenvolvedor Backend Java | Java 100% focused</h3>
+  <p>
+    📍 São Paulo – SP • 🎯 Em busca de oportunidade como Estagiário ou Júnior
+  </p>
+  
+  <div>
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+    <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+    <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" />
+  </div>
+</div>
 
 ---
 
 ## 👨‍💻 Sobre mim
+Sou estudante de **Análise e Desenvolvimento de Sistemas**, apaixonado pela robustez do ecossistema Java. Meu foco é construir o "coração" das aplicações: o **Backend**. 
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas**, com foco em **desenvolvimento backend utilizando Java**.  
-Atualmente, busco minha **primeira oportunidade como Estagiário ou Desenvolvedor Júnior Back-end**, onde eu possa aplicar meus conhecimentos técnicos, evoluir profissionalmente e contribuir com soluções bem estruturadas.
+Atualmente, dedico meus estudos à **Programação Orientada a Objetos (POO)** aplicada a sistemas escaláveis, sempre priorizando código limpo (*Clean Code*) e arquiteturas bem definidas. 
 
-Tenho interesse especial em **Java, Programação Orientada a Objetos (POO), lógica de programação e conceitos de backend**, sempre buscando escrever código organizado, legível e de fácil manutenção.
-
-Além disso, estou em constante aprimoramento do **inglês técnico e profissional**, com o objetivo de, no futuro, conquistar **oportunidades internacionais na área de tecnologia**.
-
----
-
-## 🎯 Objetivo Profissional
-
-Atuar como **Estagiário ou Desenvolvedor Júnior Back-end Java**, contribuindo para projetos reais, aprimorando minhas habilidades em **Java e SQL**, e evoluindo continuamente como desenvolvedor, com foco em crescimento a médio e longo prazo.
+- 🎓 Cursando ADS no **Senac SP** (2025 - 2028).
+- 🇬🇧 Aprimorando **Inglês Técnico** para documentação e carreira internacional.
+- ☕ Entusiasta de arquitetura de sistemas e lógica complexa.
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+## 🛠️ Stack Tecnológica
 
-**Backend**
-- Java  
-- Programação Orientada a Objetos (POO)
-
-**Banco de Dados**
-- SQL  
-- MySQL
-
-**Ferramentas**
-- Git & GitHub  
-- IntelliJ IDEA  
-- Visual Studio Code
-
----
-
-## 🚀 Projetos
-
-### 🎮 RPG no Terminal — Java
-Projeto acadêmico desenvolvido em grupo, utilizando **Java no terminal**, com foco em:
-
-- Lógica de programação  
-- Estruturas condicionais  
-- Laços de repetição  
-- Organização e clareza do código  
-
-📌 Projeto voltado para reforçar fundamentos de Java, trabalho em equipe e resolução de problemas.
+<table align="center">
+  <tr>
+    <td align="center" width="150">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" />
+      <br>Java (Core & POO)
+    </td>
+    <td align="center" width="150">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="40" height="40" />
+      <br>Spring Boot
+    </td>
+    <td align="center" width="150">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40" />
+      <br>MySQL / SQL
+    </td>
+    <td align="center" width="150">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40" />
+      <br>Git & GitHub
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 🚗 Sistema de Cadastro de Veículos — Java
-Sistema desenvolvido inteiramente em **Java**, com **código e documentação em inglês**, focado em:
+## 🚀 Projetos em Destaque
 
-- Estruturação de classes  
-- Programação Orientada a Objetos  
-- Simulação de um sistema backend simples  
+### 💈 [API Sistema de Barbearia](https://github.com/lucigool)
+**Tech: Java | Spring Boot | JUnit 5 | Mockito**
+> Sistema completo de agendamento com regras de negócio complexas e 100% de cobertura de testes na camada Service.
+- [x] Regras de conflito de horário.
+- [x] Arquitetura em camadas (Controller, Service, Repository).
 
-📌 Projeto criado para praticar Java e, ao mesmo tempo, desenvolver familiaridade com o inglês técnico.
-
----
-
-## 🎓 Formação Acadêmica
-
-**Tecnólogo em Análise e Desenvolvimento de Sistemas (ADS)**  
-📍 Senac São Paulo  
-📆 2025 – 2028 (Cursando)
+### 🚗 [Car Management System](https://github.com/lucigool)
+**Tech: Java (Pure) | POO | English Docs**
+> Sistema focado em boas práticas de POO e internacionalização de código, simulando um backend real de gestão de frotas.
 
 ---
 
-## 📚 Cursos Complementares
-
-- Lógica de Programação — Curso em Vídeo  
-- Programação Orientada a Objetos em Java — Curso em Vídeo  
-- Banco de Dados e SQL — Fundação Bradesco  
-
----
-
-## 🌍 Idiomas
-
-- **Português:** Nativo  
-- **Inglês:** Em desenvolvimento (foco em inglês técnico e profissional)
+## 📊 Estatísticas e Atividade
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucigool&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucigool&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
 ---
 
-## 🤝 Soft Skills
-
-- Comunicação  
-- Organização  
-- Trabalho em equipe  
-- Proatividade  
-- Aprendizado contínuo  
-
----
-
-## 🌐 Contato
+## 🌐 Conecte-se comigo
 
 <div align="center">
 
@@ -109,11 +84,6 @@ Sistema desenvolvido inteiramente em **Java**, com **código e documentação em
 
 </div>
 
----
-
-## 📊 Estatísticas do GitHub
-
-   ![game](https://github.com/user-attachments/assets/7f1609c8-fb31-495c-9f04-4ad22023b913)
-
-
-> *“A evolução acontece quando a prática encontra a consistência.”*
+<p align="center">
+  <i>"A evolução acontece quando a prática encontra a consistência."</i>
+</p>
